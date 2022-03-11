@@ -43,9 +43,10 @@ Jason Kam's Pet Owner Profile
 
 o Three to four lines about yourself as a pet owner.
  What kind of Pet(s) am I looking for?
-o Type: Cat, dog, bird, snake, Genia pig, rabbit, lizard, 
-fish...etc.
-o Age: newborn, junior, adolescent, full grown
-o Size: Very small, small, medium, large
+Dog
+o Age: newborn
+o Size: large
  How many pets am I looking for?
+1
  Do I have any other pets, or have I had any other pets?
+Never
