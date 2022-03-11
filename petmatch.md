@@ -8,8 +8,9 @@ preferences (size, age, breed, species...etc.) and match you with your ideal
 pet. Your profile helps us understand what kind of pet owner you are and 
 what you are looking for in your next pet to produce the most successful 
 matches.
-My Name: Pet Owner Profile
+Jason Kam's Pet Owner Profile
  What kind pet owner am I?
+
 o Three to four lines about yourself as a pet owner.
  What kind of Pet(s) am I looking for?
 o Type: Cat, dog, bird, snake, Genia pig, rabbit, lizard, 
